@@ -1,0 +1,22 @@
+{
+	"projectName": "paystack",
+	"licenseText": "proprietary",
+	"pkgs": [{
+		"name": "paystack CSS",
+		"file": "paystack.css",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.css",
+			"path": "themes/"
+		}]
+	}, {
+		"name": "paystack JS",
+		"file": "paystack.js",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.js",
+			"path": "themes/"
+		}]
+	}],
+	"resources" : []
+}
